@@ -1,6 +1,6 @@
 # Stock Photos Website
 
-Course exclusive project from [React Projects](https://react-projects.netlify.app/) by [John Smilga](https://github.com/john-smilga).
+Course exclusive project from [React Projects](https://react-projects.netlify.app/) .
 
 ## Link
 
@@ -22,9 +22,5 @@ Users should be able to:
 - React
 - [Unsplash API](https://unsplash.com/developers)
 
-## Author
 
-Chiara Stefanelli - Front-End Development Student based in Italy
 
-- Website - [Chiara Stefanelli](https://chiarastefanelli.netlify.app/)
-- LinkedIn - [Chiara Stefanelli](https://www.linkedin.com/in/chiarastefanelli/?locale=en_US)
